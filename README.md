@@ -1,6 +1,6 @@
 my configs files or whatevs
 
-<img width="1675" height="1043" alt="Screenshot_20261122_145637" src="https://github.com/user-attachments/assets/ed3fb444-88bb-4d49-ac08-c24fdd5f74cc" />
+<img width="1675" height="1043" alt="Screenshot_20261122_145637" src="https://github.com/user-attachments/assets/c647c727-e256-4202-b0af-10af20205a62" />
 
 PREREQUISITES:
 
