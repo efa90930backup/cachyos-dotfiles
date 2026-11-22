@@ -10,10 +10,16 @@ PREREQUISITES:
 
 **https://github.com/IlanCosman/tide** prompter for the fish shell
 
+pywal or anything that changes pywal's colors directly
+
 **RUN tide configure in your terminal before copying fish_variables!!**
 
-copy the fetch config into ~./config/fetch
+copy fetch's config into ~./config/fetch
 
-copy the fish configs into ~./config/fish
+copy fish configs into ~./config/fish
+
+copy kitty's config into ~./config/kitty
 
 (config.fish is the main config and fish_variables is the config for tide)
+
+*pls look at the project's documentations if you want to customize further, they have way better explanations for configuration than I could ever provide*
