@@ -16,6 +16,9 @@ abbr --add clean 'sudo pacman -Rns (pacman -Qdtq)'
 abbr --add update all 'paru -Syu'
 abbr --add bios 'sudo systemctl reboot --firmware-setup'
 
+#abbreviation for the easy anti-cheat kernel, remove if you don't use the eac kernel or change it if you use a distro other than cachyos
+abbr --add eac 'sudo eac-setup boot'
+
 # pywal for tide (the cool looking topbar for fish)
 if status is-interactive
     if test -e ~/.cache/wal/sequences
