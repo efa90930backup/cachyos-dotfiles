@@ -13,7 +13,7 @@ abbr --add install 'sudo pacman -S'
 abbr --add delete 'sudo pacman -Rns'
 abbr --add children 'pacman -Qdt'
 abbr --add clean 'sudo pacman -Rns (pacman -Qdtq)'
-abbr --add update all 'paru -Syu'
+abbr --add update 'paru -Syu'
 abbr --add bios 'sudo systemctl reboot --firmware-setup'
 
 #abbreviation for the easy anti-cheat kernel, remove if you don't use the eac kernel or change it if you use a distro other than cachyos
