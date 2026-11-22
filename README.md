@@ -14,11 +14,11 @@ pywal or anything that changes pywal's colors directly
 
 **RUN tide configure in your terminal before copying fish_variables!!**
 
-copy fetch's config into ~./config/fetch
+copy fetch's config into ~/.config/fetch
 
-copy fish configs into ~./config/fish
+copy fish configs into ~/.config/fish
 
-copy kitty's config into ~./config/kitty
+copy kitty's config into ~/.config/kitty
 
 (config.fish is the main config and fish_variables is the config for tide)
 
