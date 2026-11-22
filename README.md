@@ -9,7 +9,7 @@ my configs files or whatevs
   
 * [IlanCosman/tide](https://github.com) — prompt for the fish shell
 
-* [JetBrainsMono Nerd Font](https://nerdfonts.com) the font that i use for terminal, install it using your distro's package manager (apt for debian based, dnf for fedora based, and pacman for arch based)
+* [JetBrainsMono Nerd Font](https://nerdfonts.com) the font that i use for terminal, install it using your distro's package manager (apt for debian based, dnf for fedora based, and pacman for arch based, keep in mind that the package name likely will be different depending on your distro (ttf-jetbrains-mono-nerd for arch based)
 
 * `pywal` (or anything that updates pywal's color palette directly)
 
