@@ -24,4 +24,4 @@ copy kitty's config into `~/.config/kitty`
 
 (config.fish is the main config and fish_variables is the config for tide)
 
-*pls look at the project's documentations if you want to customize further, they have way better explanations for configuration than I could ever provide*
+*pls look at the projects listed above for documentation if you want to customize further, they have way better explanations for configuration than I could ever provide*
