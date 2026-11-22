@@ -4,23 +4,23 @@ my configs files or whatevs
 
 ## Prerequisites
 * [areofyl/fetch](https://github.com) — the cool fetch tool that makes your distro logo spin in 3D
-* 
+  
 * [jorgebucaran/fisher](https://github.com) — plugin manager for the fish shell (needed for Tide to function)
-* 
+  
 * [IlanCosman/tide](https://github.com) — prompt for the fish shell
-* 
+
 * [JetBrainsMono Nerd Font](https://nerdfonts.com) the font that i use for terminal, install it using your distro's package manager (apt for debian based, dnf for fedora based, and pacman for arch based)
-* 
+
 * `pywal` (or anything that updates pywal's color palette directly)
 
 
-**RUN `tide configure` in your terminal before copying `fish_variables!!`**
+**RUN `tide configure` in your terminal before copying `fish_variables`!!**
 
-copy fetch's config into ~/.config/fetch
+copy fetch's config into `~/.config/fetch`
 
-copy fish configs into ~/.config/fish
+copy fish configs into `~/.config/fish`
 
-copy kitty's config into ~/.config/kitty
+copy kitty's config into `~/.config/kitty`
 
 (config.fish is the main config and fish_variables is the config for tide)
 
