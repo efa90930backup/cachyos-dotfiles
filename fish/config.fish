@@ -5,9 +5,6 @@ function fish_greeting
     fetch
 end
 
-# i lowkey don't know why this is here but im assuming it's for updating spicetify
-fish_add_path /home/speck/.spicetify
-
 # abbreviations so no more spamming sudo pacman blah blah blah
 abbr --add install 'sudo pacman -S'
 abbr --add delete 'sudo pacman -Rns'
