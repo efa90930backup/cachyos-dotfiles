@@ -1,4 +1,4 @@
-my configs files or whatevs (**this is mainly for personal use and is currently not distro agnostic, if you have any issues, file it here on github**)
+my configs files or whatevs (**this is mainly for personal use and is only meant to be used with CachyOS, if you have any issues, file it here on github**)
 
 <img width="1675" height="1043" alt="Screenshot_20261122_145637" src="https://github.com/user-attachments/assets/c647c727-e256-4202-b0af-10af20205a62" />
 
